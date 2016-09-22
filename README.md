@@ -1,0 +1,2 @@
+# Online-Car-Rental-System
+Online Car Rental System is a web based application using Java, JSP, MySQL, where users can look-up for availability of a car category for a pick-up date and can provide the driver details to reserve the car. For pick-up process, admin verifies the driver’s details of the reservation id and records the credit card details. For return process, admin verifies the Vehicle ID and the transaction amount is automatically deducted.
